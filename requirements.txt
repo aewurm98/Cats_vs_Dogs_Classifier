@@ -1,4 +1,4 @@
 fastai
-pytorch
+torch
 gradio
 huggingface_hub
