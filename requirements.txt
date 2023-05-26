@@ -1,0 +1,4 @@
+fastai
+pytorch
+gradio
+huggingface_hub
